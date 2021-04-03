@@ -1,0 +1,132 @@
+[
+  {
+    "key": "ag",
+    "title": "Argovia",
+    "count": "6"
+  },
+  {
+    "key": "ai",
+    "title": "Appenzello Interno",
+    "count": "5"
+  },
+  {
+    "key": "ar",
+    "title": "Appenzello Esterno",
+    "count": "5"
+  },
+  {
+    "key": "be",
+    "title": "Berna",
+    "count": "6"
+  },
+  {
+    "key": "bl",
+    "title": "Basilea Campagna",
+    "count": "6"
+  },
+  {
+    "key": "bs",
+    "title": "Basilea Città",
+    "count": "5"
+  },
+  {
+    "key": "fr",
+    "title": "Friburgo",
+    "count": "6"
+  },
+  {
+    "key": "ge",
+    "title": "Ginevra",
+    "count": "6"
+  },
+  {
+    "key": "gl",
+    "title": "Glarona",
+    "count": "5"
+  },
+  {
+    "key": "gr",
+    "title": "Grigioni",
+    "count": "6"
+  },
+  {
+    "key": "ju",
+    "title": "Giura",
+    "count": "5"
+  },
+  {
+    "key": "lu ",
+    "title": "Lucerna",
+    "count": "6"
+  },
+  {
+    "key": "ne",
+    "title": "Neuchâtel",
+    "count": "6"
+  },
+  {
+    "key": "nw",
+    "title": "Nidvaldo",
+    "count": "5"
+  },
+  {
+    "key": "ow",
+    "title": "Obvaldo",
+    "count": "5"
+  },
+  {
+    "key": "sg",
+    "title": "San Gallo",
+    "count": "6"
+  },
+  {
+    "key": "sh",
+    "title": "Sciaffusa",
+    "count": "5"
+  },
+  {
+    "key": "so",
+    "title": "Soletta",
+    "count": "6"
+  },
+  {
+    "key": "sz",
+    "title": "Svitto",
+    "count": "5"
+  },
+  {
+    "key": "tg",
+    "title": "Turgovia",
+    "count": "6"
+  },
+  {
+    "key": "ti",
+    "title": "Ticino",
+    "count": "6"
+  },
+  {
+    "key": "ur",
+    "title": "Uri",
+    "count": "5"
+  },
+  {
+    "key": "vd",
+    "title": "Vaud",
+    "count": "6"
+  },
+  {
+    "key": "vs",
+    "title": "Vallese",
+    "count": "6"
+  },
+  {
+    "key": "zg",
+    "title": "Zugo",
+    "count": "6"
+  },
+  {
+    "key": "zh",
+    "title": "Zurigo",
+    "count": "6"
+  }
+]

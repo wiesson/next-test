@@ -1,0 +1,132 @@
+[
+  {
+    "key": "ag",
+    "title": "Aargau",
+    "count": "6"
+  },
+  {
+    "key": "ai",
+    "title": "Appenzell Innerrhoden",
+    "count": "5"
+  },
+  {
+    "key": "ar",
+    "title": "Appenzell Ausserrhoden",
+    "count": "5"
+  },
+  {
+    "key": "be",
+    "title": "Bern",
+    "count": "6"
+  },
+  {
+    "key": "bl",
+    "title": "Basel-Land",
+    "count": "6"
+  },
+  {
+    "key": "bs",
+    "title": "Basel-Stadt",
+    "count": "5"
+  },
+  {
+    "key": "fr",
+    "title": "Freiburg",
+    "count": "6"
+  },
+  {
+    "key": "ge",
+    "title": "Genf",
+    "count": "6"
+  },
+  {
+    "key": "gl",
+    "title": "Glarus",
+    "count": "5"
+  },
+  {
+    "key": "gr",
+    "title": "Graubünden",
+    "count": "6"
+  },
+  {
+    "key": "ju",
+    "title": "Jura",
+    "count": "5"
+  },
+  {
+    "key": "lu ",
+    "title": "Luzern",
+    "count": "6"
+  },
+  {
+    "key": "ne",
+    "title": "Neuenburg",
+    "count": "6"
+  },
+  {
+    "key": "nw",
+    "title": "Nidwalden",
+    "count": "5"
+  },
+  {
+    "key": "ow",
+    "title": "Obwalden",
+    "count": "5"
+  },
+  {
+    "key": "sg",
+    "title": "St. Gallen",
+    "count": "6"
+  },
+  {
+    "key": "sh",
+    "title": "Schaffhausen",
+    "count": "5"
+  },
+  {
+    "key": "so",
+    "title": "Solothurn",
+    "count": "6"
+  },
+  {
+    "key": "sz",
+    "title": "Schwyz",
+    "count": "5"
+  },
+  {
+    "key": "tg",
+    "title": "Thurgau",
+    "count": "6"
+  },
+  {
+    "key": "ti",
+    "title": "Tessin",
+    "count": "6"
+  },
+  {
+    "key": "ur",
+    "title": "Uri",
+    "count": "5"
+  },
+  {
+    "key": "vd",
+    "title": "Waadt",
+    "count": "6"
+  },
+  {
+    "key": "vs",
+    "title": "Wallis",
+    "count": "6"
+  },
+  {
+    "key": "zg",
+    "title": "Zug",
+    "count": "6"
+  },
+  {
+    "key": "zh",
+    "title": "Zürich",
+    "count": "6"
+  }
+]
